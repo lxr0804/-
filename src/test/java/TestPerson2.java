@@ -9,6 +9,8 @@ public class TestPerson2 {
         p.setAge(2);
         System.out.println(p.getAge());
         System.out.println("hello");
+        System.out.println("hello");
+
 
     }
 }
